@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriel! 👋
 
-I'm a Software Engineer with a degree in Software Engineering from UEPG. I've been working professionally as a developer for the past 4 years, focusing primarily on Golang and JavaScript. Currently, I work at Estratégia Educacional, where I help create scalable solutions for the educational sector.
+I'm a Software Engineer with a degree in Software Engineering from UEPG. I've been working professionally as a developer for the past 6 years, focusing primarily on Golang and JavaScript. Currently, I work at Estratégia Educacional, where I help create scalable solutions for the educational sector.
 
 Recently, I've been diving into the world of learn & build in public, and I plan to soon share my progress and projects with the community.
 
